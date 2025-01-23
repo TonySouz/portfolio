@@ -1,12 +1,9 @@
-
+import './index.css';
 
 const App = () => {
 
-  return (
-    <>
-      App
-    </>
-  )
+
+    
 }
 
-export default App
+export default App;
